@@ -1,0 +1,17 @@
+name= "Ariel"
+edad=19
+
+print(name)
+print(edad)
+
+nombre= "Ada"
+apellido= "Lovelace"
+
+full_name=nombre + " " + apellido
+print(full_name)
+
+payton 2 ---------------------------
+
+fullname= ´{} {}´.format (nombre,apellido)
+print(fullname)
+print(name
